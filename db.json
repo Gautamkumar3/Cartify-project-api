@@ -493,5 +493,6 @@
     }
   ],
   "cart": [],
-  "address": []
+  "address": [],
+  "payment": []
 }
